@@ -1,0 +1,7 @@
+{
+    "/js/bootstrap.min.js": "/js/bootstrap.min.js",
+    "/js/popper.min.js": "/js/popper.min.js",
+    "/js/jquery-3.2.1.min.js": "/js/jquery-3.2.1.min.js",
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css"
+}
