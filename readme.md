@@ -2,7 +2,8 @@
 
 Make a service "message wall" using the provided HTML template.
 
-Technologies: PHP, Laravel.
+## Technologies
+PHP, Laravel.
 
 ## Main page
 
