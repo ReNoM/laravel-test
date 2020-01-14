@@ -14,7 +14,7 @@ If the user sent an empty message, display an error message "The message mustn't
 When the message is accepted, display the updated message list.
 
 ### Sorting
-By date (newest first)
+By date (newest first).
 
 ## Authentication
 If invalid credentials were provided, display an error message.
@@ -25,7 +25,7 @@ If there are validation errors, display each error nearby a corresponding input 
 
 ## Main menu
 ### Placement
-At the top of the page
+At the top of the page.
 
 ### Items
 Wall: directs to the main page.
